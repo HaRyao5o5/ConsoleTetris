@@ -1,0 +1,15 @@
+C:\Users\haruy\OneDrive\デスクトップ\ConsoleTetris\bin\Debug\net10.0\ConsoleTetris.exe
+C:\Users\haruy\OneDrive\デスクトップ\ConsoleTetris\bin\Debug\net10.0\ConsoleTetris.deps.json
+C:\Users\haruy\OneDrive\デスクトップ\ConsoleTetris\bin\Debug\net10.0\ConsoleTetris.runtimeconfig.json
+C:\Users\haruy\OneDrive\デスクトップ\ConsoleTetris\bin\Debug\net10.0\ConsoleTetris.dll
+C:\Users\haruy\OneDrive\デスクトップ\ConsoleTetris\bin\Debug\net10.0\ConsoleTetris.pdb
+C:\Users\haruy\OneDrive\デスクトップ\ConsoleTetris\obj\Debug\net10.0\ConsoleTetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haruy\OneDrive\デスクトップ\ConsoleTetris\obj\Debug\net10.0\ConsoleTetris.AssemblyInfoInputs.cache
+C:\Users\haruy\OneDrive\デスクトップ\ConsoleTetris\obj\Debug\net10.0\ConsoleTetris.AssemblyInfo.cs
+C:\Users\haruy\OneDrive\デスクトップ\ConsoleTetris\obj\Debug\net10.0\ConsoleTetris.csproj.CoreCompileInputs.cache
+C:\Users\haruy\OneDrive\デスクトップ\ConsoleTetris\obj\Debug\net10.0\ConsoleTetris.sourcelink.json
+C:\Users\haruy\OneDrive\デスクトップ\ConsoleTetris\obj\Debug\net10.0\ConsoleTetris.dll
+C:\Users\haruy\OneDrive\デスクトップ\ConsoleTetris\obj\Debug\net10.0\refint\ConsoleTetris.dll
+C:\Users\haruy\OneDrive\デスクトップ\ConsoleTetris\obj\Debug\net10.0\ConsoleTetris.pdb
+C:\Users\haruy\OneDrive\デスクトップ\ConsoleTetris\obj\Debug\net10.0\ConsoleTetris.genruntimeconfig.cache
+C:\Users\haruy\OneDrive\デスクトップ\ConsoleTetris\obj\Debug\net10.0\ref\ConsoleTetris.dll
